@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Lilian Almeida",
+        "age": 21,
+        "health_insurance": "Yes",
+        "occupation": "Student" 
+    },
+    {
+        "id": 2,
+        "name": "Lucas Sperb",
+        "age": 26,
+        "health_insurance": "No",
+        "occupation": "UX Design" 
+    },
+    {
+        "id": 3,
+        "name": "Matheus Pepe",
+        "age": 25,
+        "health_insurance": "Yes",
+        "occupation": "Ecologyst" 
+    },
+    {
+        "id": 4,
+        "name": "Alice Tsukino",
+        "age": 22,
+        "health_insurance": "No",
+        "occupation": "Student" 
+    }
+    , {
+        "id": 5,
+        "name": "Carolina Bodalo",
+        "age": 27,
+        "health_insurance": "Yes",
+        "occupation": "C/C++ Programmer" 
+    }
+]
